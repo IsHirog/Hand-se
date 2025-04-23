@@ -12,6 +12,8 @@ O projeto foi desenvolvido com a intenção de criar um braço robótico acessí
 - **Controle dos servos**: O código permite mover os servos para ângulos específicos ou ativar movimentos como "abrir", "fechar" e "testar".
 - **Integração com Visão Computacional**: O código Python pode ser usado para capturar imagens e fornecer comandos para o Arduino baseado em processamento de imagem.
 
+https://github.com/user-attachments/assets/4c26edd6-d1f0-4f0c-aaaa-3f983c7d963d
+
 ## Componentes
 
 - **Arduino (Uno ou compatível)**: Para controlar o braço robótico e os servos.
